@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @necorage
-- 👀 I’m interested in laravel (in this moment), but i need to learn JS
-- 🌱 I’m currently learning Laravel and python ....
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m work with PHP, Python and TCL but i need to learn JS and Frameworks
+- 🌱 I’m currently learning Laravel and improving Python...
+- 💞️ In this moment i'm not collaborate in other projects because i have too much with mines ... hahaha
 - 📫 How to reach me ... info@necoprojects.com
 
 <!---
